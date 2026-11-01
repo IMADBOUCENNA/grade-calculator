@@ -24,3 +24,4 @@ and on every push to `main`.
 | C (`<username-c>`) | Contributor | Passing grade limit (Issue #2) |
 test
 test
+test
