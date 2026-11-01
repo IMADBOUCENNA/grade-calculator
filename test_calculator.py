@@ -15,6 +15,7 @@ def test_empty_grades():
     with pytest.raises(ValueError):
         calculate_average([])
 
+
 def test_grade_categories():
     assert get_grade_category(17) == "Excellent"
     assert get_grade_category(13) == "Good"
